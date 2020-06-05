@@ -11,7 +11,7 @@ For more information about the features of the engine see the following video
 
 [![Watch the video](https://i.ytimg.com/vi/HnlVdcr7t5Q/hqdefault.jpg)](https://youtu.be/HnlVdcr7t5Q)
 
-If interested you can clone the project ... and follow a lot programing examples using the engine.
+If interested you can clone the project simple-demo ( https://github.com/xyzjge/simple-demo ) and follow some programing examples that use the engine.
 
 Here you can see a video with a demo game (based in the great monolith's blood).
 
