@@ -25,4 +25,4 @@ Here you can download an ejecutable jar that runs the demo.
 
 [blood-1.0.2-jar-with-dependencies.jar](TODO)
 
-The engine documentation (WIP) is here
+The engine documentation (WIP) is here [WIKI](wiki)
