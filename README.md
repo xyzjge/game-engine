@@ -13,11 +13,11 @@ For more information about the features of the engine see the following video
 
 If interested you can clone the project simple-demo ( https://github.com/xyzjge/simple-demo ) and follow some programing examples that use the engine.
 
-Here you can see a video of a demo game implemented using the engine (based in the great monolith's blood).
+Below you can see a video of a demo game implemented using the engine (based in the great monolith's blood).
 
 [![Watch the video](https://i.ytimg.com/vi/92trgYtnDO0/hqdefault.jpg)](https://youtu.be/92trgYtnDO0)
 
-Here you can see a similar video but with some of the debug facilities of the engine enabled.
+Below you can see a similar video but with some of the debug facilities of the engine enabled.
 
 [![Watch the video](https://i.ytimg.com/vi/qBIj428Y8c0/hqdefault.jpg)](https://youtu.be/qBIj428Y8c0)
 
