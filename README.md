@@ -21,8 +21,6 @@ Here you can see a similar video but with some of the debug facilities of the en
 
 [![Watch the video](https://i.ytimg.com/vi/qBIj428Y8c0/hqdefault.jpg)](https://youtu.be/qBIj428Y8c0)
 
-Here you can download an ejecutable jar that runs the demo.
-
-[blood-1.0.2-jar-with-dependencies.jar](https://drive.google.com/file/d/16GUjV9DzoOOwpxZL9PTYrBOsGLfSzi9T/view?usp=sharing)
+Here you can download an ejecutable jar to run the demo [blood-1.0.2-jar-with-dependencies.jar](https://drive.google.com/file/d/16GUjV9DzoOOwpxZL9PTYrBOsGLfSzi9T/view?usp=sharing)
 
 The engine documentation (WIP) is here [WIKI](https://github.com/xyzjge/game-engine/wiki)
