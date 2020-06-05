@@ -23,4 +23,6 @@ Here you can see a similar video but with some of the debug facilities of the en
 
 Here you can download an ejecutable jar that runs the demo.
 
+[blood-1.0.2-jar-with-dependencies.jar](TODO)
+
 The engine documentation (WIP) is here
